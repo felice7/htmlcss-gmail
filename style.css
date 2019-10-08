@@ -1,0 +1,50 @@
+body {
+    background-color: lightgreen;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+
+
+h2 {
+    background-color: grey;
+    background-position: center;
+    color: white;
+    padding: 10px;
+    text-align: center;
+
+}
+
+
+.email-arrivo {
+
+    background-color: lightgrey;
+    border: 1px solid grey;
+    border-style: solid;
+    padding: 5px;
+    margin-left: 1px;
+    text-align: center;
+
+}
+
+
+.oggetto-email {
+
+    background-color: tomato;
+    color: white;
+    text-align: left;
+    padding: 5px;
+
+}
+
+
+.email-inviata {
+
+    background-color: lightblue;
+    border: 1px solid grey;
+    border-style: solid;
+    padding: 5px;
+    margin-left: 1px;
+    text-align: center;
+
+}
